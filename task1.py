@@ -1,4 +1,5 @@
-
+# I used if, elif and else to check the temperature.
+# The program displays Cold, Mild or Warm based on the input.
 # Exercise 1: Temperature Adviser
 
 temperature = float(input("Temperature: "))
