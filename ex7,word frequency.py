@@ -1,4 +1,5 @@
-
+# I read text from a file and converted it to lowercase.
+# I used a dictionary to count how many times each word appears.
 # Exercise 7: Word Frequency Counter
 
 with open(r"C:\Users\arooj\OneDrive\Desktop\New folder\task class.py\sample_text.txt", "r") as file:
