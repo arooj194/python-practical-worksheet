@@ -1,5 +1,6 @@
+# I multiplied the price by the quantity to calculate the total.
+# I used an if statement to apply a 10% discount when the total is £50 or more.
 # Exercise 2: Shopping Calculator
-
 price = float(input("Enter item price: "))
 quantity = int(input("Enter quantity: "))
 
