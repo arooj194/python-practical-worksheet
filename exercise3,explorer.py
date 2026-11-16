@@ -1,6 +1,6 @@
-
+# I used a for loop to check numbers from 1 to n.
+# I used the modulus operator to find even numbers and count their sum.
 # Explorer
-
 n = int(input("Enter a positive number: "))
 
 count = 0
