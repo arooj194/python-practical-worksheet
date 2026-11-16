@@ -1,4 +1,5 @@
-
+# I used a while loop to allow a maximum of three password attempts.
+# I used if and else to check the password and grant or deny access.
 #Password Attempts
 
 correct_password = "python123"
