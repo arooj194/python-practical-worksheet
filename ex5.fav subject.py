@@ -1,4 +1,5 @@
-
+# I created a list to store favourite subjects.
+# I used append, remove and a for loop to manage and display the subjects.
 # Ex 5: Fav sub List
 
 subjects = ["Python", "Security", "AI"]
